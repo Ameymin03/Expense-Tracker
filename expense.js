@@ -1,6 +1,6 @@
 function handleFormSubmit(event) {
     const expense=document.getElementById('expense-form');
-    form.addEventListener("click",function(event)
+    form.addEventListener("click",function(event){
     event.preventDefault();
   
    
